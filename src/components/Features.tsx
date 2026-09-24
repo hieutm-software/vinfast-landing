@@ -25,7 +25,7 @@ const features = [
 
 export default function Features() {
   return (
-    <section id="promotions" className="py-24 bg-white relative overflow-hidden">
+    <section className="py-24 bg-white relative overflow-hidden">
       {/* Decorative background split */}
       <div className="absolute top-0 left-0 w-full h-1/2 bg-gray-50 z-0"></div>
       

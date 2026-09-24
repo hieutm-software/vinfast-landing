@@ -65,8 +65,7 @@ const cars = [
 
 export default function CarModels() {
   return (
-    <section id="models" className="py-24 bg-gray-50 relative">
-      <div id="pricing" className="absolute top-0 -mt-24"></div>
+    <section id="models" className="py-24 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 md:px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-black text-gray-900 mb-4 tracking-tight">

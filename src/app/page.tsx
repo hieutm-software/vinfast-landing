@@ -1,12 +1,16 @@
 import Hero from "@/components/Hero";
 import CarModels from "@/components/CarModels";
 import Features from "@/components/Features";
+import Pricing from "@/components/Pricing";
+import Promotions from "@/components/Promotions";
 
 export default function Home() {
   return (
     <>
       <Hero />
       <CarModels />
+      <Pricing />
+      <Promotions />
       <Features />
       
       {/* Short CTA Section */}
