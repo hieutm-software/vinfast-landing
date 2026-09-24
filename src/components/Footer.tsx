@@ -3,7 +3,7 @@ import { Globe, MessageCircle, Video, MapPin, Phone, Mail } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-gray-300 pt-20 pb-10">
+    <footer id="contact" className="bg-gray-900 text-gray-300 pt-20 pb-10">
       <div className="max-w-7xl mx-auto px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           {/* Column 1 */}
